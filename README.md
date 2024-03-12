@@ -1,0 +1,1 @@
+Hello, I'm an undergrad freshman pursuing an engineering degree in Electronics and Telecommunication. I'm interested in coding for IoT & Embedded systems and look forward to learning about the same. I'm currently mastering Python and C, and am learning C++ basics.
